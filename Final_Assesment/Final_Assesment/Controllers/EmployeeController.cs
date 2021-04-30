@@ -41,7 +41,7 @@ namespace Final_Assesment.Controllers
       */
 
         // Email And emp_code can not be dublicate
-        public Employee AddEmployee(Employee employee)
+      /*  public Employee AddEmployee(Employee employee)
         {
             using (DBconnection con = new DBconnection())
             {
@@ -58,6 +58,7 @@ namespace Final_Assesment.Controllers
             }
 
         }
+      */
 
 
 
